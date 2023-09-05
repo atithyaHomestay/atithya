@@ -1015,7 +1015,7 @@ section {
   border: 0;
   padding: 12px 15px;
   transition: 0.3s;
-  color: #fff;
+  color: #cfa640;
   border-radius: 0;
   border-right: 2px solid #cda45e;
   font-weight: 600;
@@ -1044,11 +1044,11 @@ section {
   font-size: 26px;
   font-weight: 600;
   margin-bottom: 20px;
-  color: #fff;
+  color: #cd9438;
 }
 
 .specials .details p {
-  color: #aaaaaa;
+  color: #ffffff;
 }
 
 .specials .details p:last-child {
@@ -1989,7 +1989,7 @@ textarea {
 }
 /* Style for Payment Information */
 .payment-info {
-  background-color: #96a5b5;
+  background-color: #587da4;
   padding: 20px;
   border: 1px solid #ddd;
   border-radius: 5px;
@@ -1999,14 +1999,14 @@ textarea {
 .payment-info h3 {
   font-size: 24px;
   margin-bottom: 10px;
-  color: #333;
+  color: #000000;
 }
 
 .payment-info h4 {
   font-size: 18px;
   margin-top: 20px;
   margin-bottom: 10px;
-  color: #555;
+  color: #060101;
 }
 
 .payment-info ul {
@@ -2027,11 +2027,11 @@ textarea {
 
 .payment-info ul ul li {
   margin-left: 10px;
-  color: #777;
+  color: #000000;
 }
 
 .payment-info p {
   margin-top: 20px;
   font-size: 16px;
-  color: #555;
+  color: #120101;
 }
