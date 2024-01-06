@@ -14,7 +14,13 @@
     {
         "PageNumber": 3,
         "Title": "Tourists are arriving..",
-        "Text": "Currently we are experiencing spike in tourists arrivals. We are receiving a lot of booking requests from agents, tour operators and booking websites. Book your dates with us to avoid last minute disappointment as Atithya Homestay is one of the most preferred resorts across Darjeeling.  Please click on BOOK to book online and make advanced payment through GPay.",
+        "Text": "Currently we are experiencing spike in tourists arrivals. We are receiving a lot of booking requests from agents, tour operators and booking websites. Book your dates with us to avoid last minute disappointment as Atithya Homestay is one of the most preferred resorts across Darjeeling.  Please click on BOOK to book online and make at least 50% advanced payment through GPay for confirmed booking.",
+        "ImageUrl": "assets/img/Tourists.jpg"
+    },
+    {
+        "PageNumber": 4,
+        "Title": "Are you a solo traveller?",
+        "Text": "If you are a solo traveller, male or female, we will take full care of  you. No worries.  From the Darjeeling town centre to our Homestay and back, we can help your for your transport, medical care and attention at all times. Especially ladies, feel comfortable, the owner is herself a lady and knows your needs for company and support. You are most welcome...",
         "ImageUrl": "assets/img/Tourists.jpg"
     }
 ]
