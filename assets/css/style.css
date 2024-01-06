@@ -1299,13 +1299,6 @@ section {
   color: rgba(255, 255, 255, 0.6);
   margin: 0 0 0 45px;
   
-}
-.testimonials .testimonial-item h5 {
-  font-size: 14px;
-  color: rgba(255, 255, 255, 0.6);
-  margin: 0 0 0 45px;
-}
-
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
   color: #d3af71;
