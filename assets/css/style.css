@@ -114,6 +114,7 @@ h6 {
     display: inline-block !important;
   }
 }
+
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
 --------------------------------------------------------------*/
@@ -196,7 +197,7 @@ h6 {
   line-height: 1;
   font-weight: 300;
   letter-spacing: 1px;
-  
+
   font-family: "Poppins", sans-serif;
 }
 
@@ -463,7 +464,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background-image: radial-gradient(circle at center, #1b0719, #110323); /* Replace with your desired gradient colors */
+  background-image: radial-gradient(circle at center, #1b0719, #110323);
+  /* Replace with your desired gradient colors */
   background-size: cover;
   position: relative;
   padding: 0;
@@ -912,7 +914,7 @@ section {
 
 .menu #menu-flters {
   padding: 0;
-  margin:  auto 0 auto;
+  margin: auto 0 auto;
   list-style: none;
   text-align: center;
   border-radius: 50px;
@@ -1298,7 +1300,8 @@ section {
   font-size: 14px;
   color: rgba(255, 255, 255, 0.6);
   margin: 0 0 0 45px;
-  
+}
+
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
   color: #d3af71;
@@ -1750,32 +1753,34 @@ section {
   color: #fff;
 }
 
-.aboutus
-{
+.aboutus {
   margin-top: 10%;
 }
-.h3
-{
+
+.h3 {
   color: #cda45e;
 }
-.p
-{
- color: #cda45e;
+
+.p {
+  color: #cda45e;
 }
-.aboutus .h3
-{
+
+.aboutus .h3 {
   color: #b96b0c;
 }
+
 /* Mobile Menu Styles */
 #mobile-menu {
   position: absolute;
-  top: 60px; /* Adjust this value to position the menu below the header */
+  top: 60px;
+  /* Adjust this value to position the menu below the header */
   right: 0;
   background-color: #fff;
   border-radius: 5px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
   z-index: 999;
-  width: 250px; /* Adjust the menu width as needed */
+  width: 250px;
+  /* Adjust the menu width as needed */
   padding: 10px;
   display: none;
 }
@@ -1801,29 +1806,28 @@ section {
 }
 
 /* Show mobile menu when button is clicked */
-.mobile-menu-button.active + #mobile-menu {
+.mobile-menu-button.active+#mobile-menu {
   display: block;
 }
-.contact
-{
+
+.contact {
   margin-top: 10%;
 }
-.book-a-table-btn
-{
+
+.book-a-table-btn {
   text-align: center;
 }
-.hidden-content
-{
+
+.hidden-content {
   margin-top: 80px;
 }
 
-.hidden-content p
-{
+.hidden-content p {
   color: #bcafbd;
-  font-style:aerial, sans-serif;
+  font-style: aerial, sans-serif;
 }
-.hidden-content h3
-{
+
+.hidden-content h3 {
   color: #d3af71;
 }
 
@@ -1840,12 +1844,14 @@ section {
   transition: 0.3s;
   max-width: 200px;
 }
-.learn-more-btn :hover{
+
+.learn-more-btn :hover {
   color: #cda45e;
   max-width: 220px;
   background-image: #941147aa;
   text-align: center;
 }
+
 /* Style for the form */
 form {
   background-color: #1b042e;
@@ -1876,6 +1882,7 @@ textarea {
     padding: 10px;
   }
 }
+
 /* Style for the Blog section */
 .blog {
   padding: 160px 0;
@@ -1936,65 +1943,85 @@ textarea {
 .btn-primary:hover {
   background-color: #0056b3;
 }
+
 /* Style for the "Book Now" section */
 .book-now {
   background-image: radial-gradient(circle at center, #2d0931, #12021a);
-  padding: 50px; /* Padding around the section */
-  margin-top:150px;
+  padding: 50px;
+  /* Padding around the section */
+  margin-top: 150px;
 }
 
 .book-now h2 {
-  color: rgb(205, 142, 25); /* Heading color */
-  font-size: 24px; /* Heading font size */
+  color: rgb(205, 142, 25);
+  /* Heading color */
+  font-size: 24px;
+  /* Heading font size */
 }
 
 /* Style for the form elements */
 .booking-form {
-  margin-top: 120px; /* Spacing between the form and the heading */
+  margin-top: 120px;
+  /* Spacing between the form and the heading */
 }
 
 .form-group {
-  margin-bottom: 20px; /* Spacing between form groups */
+  margin-bottom: 20px;
+  /* Spacing between form groups */
 }
 
 /* Style for the submit button */
 .btn-primary {
-  background-color: #007bff; /* Button background color */
-  color: #fff; /* Button text color */
-  font-size: 18px; /* Button font size */
-  padding: 10px 20px; /* Button padding */
+  background-color: #007bff;
+  /* Button background color */
+  color: #fff;
+  /* Button text color */
+  font-size: 18px;
+  /* Button font size */
+  padding: 10px 20px;
+  /* Button padding */
 }
 
 
 /* Style for the account details section */
 .account-details {
-  background-color: #fff; /* Background color for the account details */
-  padding: 15px; /* Padding within the account details */
-  border: 1px solid #ccc; /* Border around the account details */
-  margin-top: 20px; /* Spacing above the account details */
+  background-color: #fff;
+  /* Background color for the account details */
+  padding: 15px;
+  /* Padding within the account details */
+  border: 1px solid #ccc;
+  /* Border around the account details */
+  margin-top: 20px;
+  /* Spacing above the account details */
 }
 
 /* Style for the button */
 .btn-primary {
-  background-color: #007bff; /* Button background color */
-  color: #fff; /* Button text color */
-  font-size: 18px; /* Button font size */
-  padding: 10px 20px; /* Button padding */
+  background-color: #007bff;
+  /* Button background color */
+  color: #fff;
+  /* Button text color */
+  font-size: 18px;
+  /* Button font size */
+  padding: 10px 20px;
+  /* Button padding */
 }
 
 /* Media query for responsive design (adjust as needed) */
 @media (max-width: 768px) {
   .payment-info .col-md-6 {
-      margin-bottom: 20px; /* Add spacing between columns on smaller screens */
+    margin-bottom: 20px;
+    /* Add spacing between columns on smaller screens */
   }
 }
+
 /* Style for Payment Information */
 .payment-info {
   background-color: #587da4;
   padding: 20px;
   border: 1px solid #ddd;
   border-radius: 5px;
-  margin-top:1px;
+  margin-top: 1px;
 }
 
 .payment-info h3 {
