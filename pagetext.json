@@ -16,5 +16,14 @@
         "Title": "Are you a solo traveller?",
         "Text": "Whether you are a lady or gentleman and travelliing alone, we will take full care of you. No worries.  From Darjeeling town centre to our Homestay and back, we can help for your transport needs, medical care and attention at all times. Especially ladies, feel comfortable, the owner is herself a young lady and knows your needs for company and support. You are most welcome.",
         "ImageUrl": "assets/img/solotraveller.jpg"
+    },
+    {
+        "PageNumber": 4,
+        "Title": "Love organic greens?",
+        "Text": "This is high season for winter green vegetables and these green leaves, grown by Atithya Homestay will boost your health to new heights. We will make a special and tasy vegetable curry for you from these greens.",
+        "ImageUrl": "assets/img/rayo-ko-sag.jpg"
     }
+
+
+    
 ]
