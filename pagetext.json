@@ -1,19 +1,32 @@
 [ 
-    {   "PageNumber": 1,
+    
+    {   "PageNumber": 6,
         "Title": "Group lunch.",
-        "Text": "Take a break from scorching heat of the plains, whether it is in Siliguri, Delhi, Kolkata, Bengal or southern India. There is no other beautiful and peaceful place like Atithya Homestay in Darjeeling to enjoy pleasant weather, watch the nature in its full glory and spend finest moments of your life with your partner, family, friends and children.",
+        "Text": "As the summer is approaching fast, we have groups after groups bookings.  Take a break from scorching heat of the plains, whether it is in Siliguri, Delhi, Kolkata, Bengal or southern India. There is no other beautiful and peaceful place like Atithya Homestay in Darjeeling to enjoy pleasant weather, watch the nature in its full glory and spend finest moments of your life with your partner, family, friends and children.",
         "ImageUrl": "assets/img/Group-lunch.jpg"
     },
     {
-        "PageNumber": 2,
+        "PageNumber": 3,
+        "Title": "Welcome to the Land of Orchids ",
+        "Text": "Welcome guests. If you are craving to see Himalayan orchids in their full bloom and in many colours, this is right time for you to book your stay with us. Touch orchids, feel orchids, smell orchids, kiss orchids. See more orchids in our gallery page.",
+        "ImageUrl": "assets/img/black orchids.jpg"
+    },
+    {
+        "PageNumber": 5,
         "Title": "Life after retirement?",
         "Text": "What is life if you both partners don't travel together to enjoy a visit to beautiful Darjeeling ? Look at this couple, they got an unforgettable treat from the smiling owner, who did everything to cater to their needs, medical care and attention at all times. Treat your husband or wife's birthday at this private resort, and spend the quietest hour of your love even at this sliding age.",
         "ImageUrl": "assets/img/Delhi-se.jpg"
+@@ -23,13 +23,13 @@
+        "ImageUrl": "assets/img/three-guests.jpg"
     },
     {
-        "PageNumber": 3,
+        "PageNumber": 1,
         "Title": "Homegrown Darjeeling Tea",
         "Text": "At Atithya Homestay, you will drink organic homegrown Darjeeling tea which is especially prepared for you.  Yes, Tara Tea is our latest attraction to the tourists who are clamouring to take a chance to sip this product.  You can, of course, buy as many packs as  you can and take home to gift away for family and friends.",
         "ImageUrl": "assets/img/taratea.jpg"
     },
-    ]
+    {
+        "PageNumber": 2,
+        "Title": "Book is your loyal companion",
+        "Text": "Just see this picture, far on the west horizon Darjeeling town is glittering, you are sitting at Atithya Homestay with a book and enjoying stories mingled with the village atmosphere and warm hospitality of our Homestay. A number of books are available on the shelf - mostly Nepali, but no lesser Hindi, English and other languages. Pull your favourite title, sit and read while the evening sets so beautifully across you.",
+        "ImageUrl": "assets/img/bookread.jpg"
